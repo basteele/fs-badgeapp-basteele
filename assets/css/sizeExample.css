@@ -1,0 +1,41 @@
+#mainBox1
+{
+  text-align: center;
+  background-color: #EEEEEE;
+  float: left;
+  width: 75%;
+  height: 400px;
+  clear: all;
+}
+
+#mainBox2
+{
+  text-align: center;
+  background-color: #CCCCCC;
+  float: left;
+  width: 75%;
+  clear: all;
+}
+
+#mainBox3
+{
+  text-align: center;
+  background-color: #AAAAAA;
+  float: left;
+  width: 75%;
+  clear: all;
+}
+
+#sideBox1
+{
+  background-color: #EEEFFF;
+  float: right;
+  clear: all;
+}
+
+#sideBox2
+{
+  background-color: #CCCFFF;
+  float: right;
+  clear: all;
+}
